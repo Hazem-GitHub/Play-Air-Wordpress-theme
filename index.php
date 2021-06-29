@@ -4,14 +4,22 @@
  * 
  * @package PlayAir
  */
+
+?>
+
+<?php
     get_header();
 ?>
 
-<main class="content">
-    Content
-</main>
+<div id="main-content_wrapper">
+    <main class="content">
+        Content
+    </main>
+</div>
+
 
 <?php
-get_footer();
+    get_footer();
+?>
 
 
