@@ -1,0 +1,44 @@
+{
+  "name": "play-air",
+  "version": "1.0.0",
+  "description": "play air wordpress theme",
+  "dependencies": {
+    "autoprefixer": "^10.2.6",
+    "postcss": "^8.3.5",
+    "tailwindcss": "^2.2.4"
+  },
+  "scripts": {
+    "test": "npm test",
+    "dev": "postcss tailwind-style.css -o assets/css/_tailwind-style.scss"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hazem-GitHub/Play-Air-Wordpress-theme.git"
+  },
+  "keywords": [
+    "wordpress",
+    "clean",
+    "elegent",
+    "tailwindcss",
+    "gsap",
+    "javascript",
+    "PHP",
+    "woocommerce",
+    "css",
+    "scss",
+    "HTML",
+    "online",
+    "payment",
+    "store",
+    "e-commerce"
+  ],
+  "author": "Hazem Tantawy <hazem.ece@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hazem-GitHub/Play-Air-Wordpress-theme/issues"
+  },
+  "homepage": "https://github.com/Hazem-GitHub/Play-Air-Wordpress-theme#readme",
+  "devDependencies": {
+    "postcss-cli": "^8.3.1"
+  }
+}
