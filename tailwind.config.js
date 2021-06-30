@@ -8,5 +8,8 @@ module.exports = {
   variants: {
     extend: {}
   },
+  corePlugins: {
+    transitionProperty: ['hover', 'focus', 'dark'],
+  },
   plugins: [],
 }
